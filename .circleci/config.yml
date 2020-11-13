@@ -6,4 +6,4 @@ jobs:
 
     steps:
       - run: npm install
-      - run: npm tes
+      - run: npm test
